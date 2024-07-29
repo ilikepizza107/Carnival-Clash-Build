@@ -11,6 +11,7 @@ MARIO
 DONKEY KONG
 
 LINK
+10 - Zushi Link by GKO
 
 SAMUS
 
@@ -107,9 +108,6 @@ KNUCKLES
 ########################
 STAGES
 ########################
-
-BATTLEFIELD
-Base - Daytime BF by ilikepizza107
 
 POKEMON STADIUM 2
 Base - CC2 PS2 by ilikepizza107
